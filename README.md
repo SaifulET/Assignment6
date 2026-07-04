@@ -4,29 +4,14 @@ Current outputs: app_private_ip = "10.0.2.238" and bastion_public_ip = "3.110.15
 
 ## Screenshots
 
-### vpc.PNG
-![vpc.PNG](monitoring_server/ScreenShots/vpc.PNG)
-
-### TerroformPlan.PNG
-![TerroformPlan.PNG](monitoring_server/ScreenShots/TerroformPlan.PNG)
-
-### terroformInit.PNG
-![terroformInit.PNG](monitoring_server/ScreenShots/terroformInit.PNG)
-
-### TerroformApply.PNG
-![TerroformApply.PNG](monitoring_server/ScreenShots/TerroformApply.PNG)
-
-### subnet.PNG
-![subnet.PNG](monitoring_server/ScreenShots/subnet.PNG)
-
-### natGateways.PNG
-![natGateways.PNG](monitoring_server/ScreenShots/natGateways.PNG)
-
-### Ips.PNG
-![Ips.PNG](monitoring_server/ScreenShots/Ips.PNG)
-
-### Internat Gateway.PNG
-![Internat Gateway.PNG](monitoring_server/ScreenShots/Internat%20Gateway.PNG)
-
-### ec2Instances.PNG
-![ec2Instances.PNG](monitoring_server/ScreenShots/ec2Instances.PNG)
+| Screenshot | Preview |
+| --- | --- |
+| vpc.PNG | <img src="ScreenShots/vpc.PNG" alt="vpc.PNG" width="700"> |
+| TerroformPlan.PNG | <img src="ScreenShots/TerroformPlan.PNG" alt="TerroformPlan.PNG" width="700"> |
+| terroformInit.PNG | <img src="ScreenShots/terroformInit.PNG" alt="terroformInit.PNG" width="700"> |
+| TerroformApply.PNG | <img src="ScreenShots/TerroformApply.PNG" alt="TerroformApply.PNG" width="700"> |
+| subnet.PNG | <img src="ScreenShots/subnet.PNG" alt="subnet.PNG" width="700"> |
+| natGateways.PNG | <img src="ScreenShots/natGateways.PNG" alt="natGateways.PNG" width="700"> |
+| Ips.PNG | <img src="ScreenShots/Ips.PNG" alt="Ips.PNG" width="700"> |
+| Internat Gateway.PNG | <img src="ScreenShots/Internat%20Gateway.PNG" alt="Internat Gateway.PNG" width="700"> |
+| ec2Instances.PNG | <img src="ScreenShots/ec2Instances.PNG" alt="ec2Instances.PNG" width="700"> |
